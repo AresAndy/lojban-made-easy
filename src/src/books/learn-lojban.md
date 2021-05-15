@@ -1,150 +1,148 @@
-How to use this course:
+Come utilizzare questo corso:
 
-1. read it
-2. collect your feedback and suggestions
-3. send them to [the live chat](/articles/live_chat)
+1. Leggerlo ;)
+2. Raccogliere ogni dubbio, suggerimento e poi..
+3. Chiedere [alla chat](/articles/live_chat)
 
-## Lesson 1. The language at a glance
+## Lezione 1. La lingua language a prima vista
 
-### Alphabet
+### Alfabeto
 
-The basic thing you need to know about Lojban is obviously the alphabet.
+La prima cosa che devi sapere della lingua Lojban è ovviamente il suo alfabeto.
 
-Lojban uses the Latin alphabet (vowels are colored):
+Lojban usa l'alfabeto latino (le vocali sono colorate):
 
 <dl><dd><b><font color="#FF1493">a</font> b c d <font color="#FF1493">e</font> f g <font color="#FF1493">i</font> j k l m n <font color="#FF1493">o</font> p r s t <font color="#FF1493">u</font> v x <font color="#FF1493">y</font> z ' .</b></dd></dl>
 
-Letters are pronounced exactly as they are written.
+Le lettere sono pronounciate esattamente come sono scritte.
 
-There are six vowels in Lojban:
-
-<table>
-<tbody><tr>
-<td><b><center><font color="#FF1493">a</font></center></b>
-</td>
-<td> as in <i>b<u>a</u>th</i> (not as in <i>face</i>)
-</td></tr>
-<tr>
-<td><b><center><font color="#FF1493">e</font></center></b>
-</td>
-<td> as in <i>g<u>e</u>t</i>
-</td></tr>
-<tr>
-<td><b><center><font color="#FF1493">i</font></center></b>
-</td>
-<td> as in <i>mach<u>i</u>ne</i> (not as in <i>hit</i>)
-</td></tr>
-<tr>
-<td><b><center><font color="#FF1493">o</font></center></b>
-</td>
-<td> as in <i>ch<u>o</u>ice</i>, <i>n<u>o</u>t</i> or <i>ough</i> in <i>th<u>ough</u>t</i> (not as in <i>so</i>, <b>o</b> should be a "pure" sound).
-</td></tr>
-<tr>
-<td><b><center><font color="#FF1493">u</font></center></b>
-</td>
-<td> as in <i>c<u>oo</u>l</i> (not as in <i>but</i>)
-</td></tr>
-<tr>
-<td><b><center><font color="#FF1493">y</font></center></b>
-</td>
-<td> as in <i>comm<u>a</u></i> (not as in <i>misty</i> or <i>cycle</i>)
-</td></tr></tbody></table>
-
-As for consonants they are pronounced like in English or Latin, but there are a few differences:
+Ci sono sei vocali in Lojban:
 
 <table>
-<tbody><tr>
-<td><b>c</b>
-</td>
-<td>is pronounced as <i>c</i> in <i>ocean</i>, as <i>sh</i> in <i>shop</i>.
-</td></tr>
-<tr>
-<td><b>g</b>
-</td>
-<td>always <i>g</i> as in <i>gum</i> (never <i>g</i> as in <i>gem</i>).
-</td></tr>
-<tr>
-<td><b>j</b>
-</td>
-<td>like <i>s</i> in <i>pleasure</i> or <i>treasure</i>, like <i>j</i> in French <i>bonjour</i>.
-</td></tr>
-<tr>
-<td><b>x</b>
-</td>
-<td>like <i>ch</i> in Scottish <i>loch</i> or as in German <i>Bach</i>, Spanish <i>Jose</i> or Arabic <i>Khaled</i>. Try pronouncing <i>ksss</i> while keeping your tongue down and you get this sound.
-</td></tr>
-<tr>
-<td><b> ' </b>
-</td>
-<td>like English <i>h</i>. So the apostrophe is regarded as a proper letter of Lojban and pronounced like a <i>h</i>. It can be found only between vowels. For example, <b>u'i</b> is pronounced as <i>oo-hee</i> (whereas <b>ui</b> is pronounced as <i>wee</i>).
-</td></tr>
-<tr>
-<td><b>.</b>
-</td>
-<td>a full stop (period, word break) is also regarded as a letter in Lojban. It's a short pause in speech to stop words running into each other. Actually any word starting with a vowel has a full stop placed in front of it. This helps prevent undesirable merging of two sequential words into one.
-</td></tr>
-<tr>
-<td><b>i</b>&nbsp;before&nbsp;vowels:<br/><b>ia</b>,&nbsp;<b>ie</b>…
-</td>
-<td>is considered a consonant and pronounced shorter, for example:
-<ul><li><b>ia</b> is pronounced as <i>ya</i> in <i>yard</i></li>
-<li><b>ie</b> is pronounced as <i>ye</i> in <i>yes</i></li></ul>
-</td></tr>
-<tr>
-<td><b>u</b>&nbsp;before&nbsp;vowels:<br/><b>ua</b>,&nbsp;<b>ue</b>…
-</td>
-<td>is considered a consonant and pronounced shorter, for example:
-<ul><li><b>ua</b> is pronounced as <i>wo</i> in <i>wow</i></li>
-<li><b>ue</b> is pronounced as <i>whe</i> in <i>when</i></li></ul>
-</td></tr></tbody></table>
+    <tbody>
+        <tr>
+            <td><b><center><font color="#FF1493">a</font></center></b></td>
+            <td> come <i><u>A</u>ncona</i></td>
+        </tr>
+        <tr>
+            <td><b><center><font color="#FF1493">e</font></center></b></td>
+            <td> come <i><u>E</u>mpoli</i></td>
+        </tr>
+        <tr>
+            <td><b><center><font color="#FF1493">i</font></center></b></td>
+            <td> come <i><u>I</u>mola</i></td>
+        </tr>
+        <tr>
+            <td><b><center><font color="#FF1493">o</font></center></b></td>
+            <td> come <i><u>O</u>tranto</i>
+        </tr>
+        <tr>
+            <td><b><center><font color="#FF1493">u</font></center></b></td>
+            <td> come <i><u>U</u>dine</i></td>
+        </tr>
+        <tr>
+            <td><b><center><font color="#FF1493">y</font></center></b></td>
+            <td> la più difficile per un italiano, è quasi come la <b>a</b> nella parola inglese yacht, oppure come l'intercalare inglese "<b>uh</b>m"</td>
+        </tr>
+    </tbody>
+</table>
 
-Stress is put on the last but one vowel. If a word has only one vowel you just don't stress it.
+Le consonanti sono come nel alfabeto latino, meno per alcune eccezioni:
 
-**r** can be pronounced like the _r_ in English, Scottish, French, Russian, thus there is a range of acceptable pronunciation for it.
+<table>
+    <tbody>
+        <tr>
+            <td><b>c</b></td>
+            <td>si pronuncia come <b>sc</b>iacallo, o come <i>Shhhh!</i> (per chiedere silenzio).</td>
+        </tr>
+        <tr>
+            <td><b>g</b></td>
+            <td>sempre come <b>g</b>atto, mai come ru<b>g</b>iada.</td>
+        </tr>
+        <tr>
+            <td><b>j</b></td>
+            <td>come <b>J</b>ean-Claude Van Damme :D</td>
+        </tr>
+        <tr>
+            <td><b>x</b></td>
+            <td>come Ba<b>ch</b>, oppure <b>Kh</b>aled in arabo.</td>
+        </tr>
+        <tr>
+            <td><b> ' </b></td>
+            <td>come <b>H</b>elmuth, con giusto un pelo di enfasi. L'apostrofo è una lettera valida del alfabeto Lojban, e la si trova fra due vocali. Per esempio, <b>u'i</b> si pronuncia <i>u-hi</i>.</td>
+        </tr>
+        <tr>
+            <td><b>.</b></td>
+            <td>Anche il punto è una lettera valida del alfabeto Lojban. E' una pausa breve non ignorabile che separa le parole nel parlato ed anche nel testo. Qualsiasi parola che inizia per vocale ha un punto davanti, questo per prevenire che essa si fonda con altre, creando potenzialmente parole indesiderate</td>
+        </tr>
+        <tr>
+            <td>la <b>i</b>&nbsp;davanti le vocali:<br/><b>ia</b>,&nbsp;<b>ie</b>…</td>
+            <td>
+                è considerata una consonante ed è pronunciata più breve:
+                <ul>
+                    <li><b>ia</b> come in <b>ia</b>to</li>
+                    <li><b>ie</b> come in gabb<b>ie</b></li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
+            <td><b>u</b>&nbsp;davanti le vocali:<br/><b>ua</b>,&nbsp;<b>ue</b>…</td>
+            <td>
+                è considerata una consonante ed è pronunciata più breve:
+                <ul>
+                    <li><b>ua</b> come <b>wo</b>w</li>
+                    <li><b>ue</b> come <b>we</b>stern</li>
+                </ul>
+            </td>
+        </tr>
+    </tbody>
+</table>
 
-Non-Lojban vowels like short _i_ and _u_ in Standard British English _hit_ and _but_ are used by some people to separate consonants. So if you have problems spitting out two consonant one after another, e.g. the **vl** in **tavla** (which means _to talk to_), then you can say _tavɪla_ — where the _ɪ_ is very short, but other vowels: **a**, **u** have to be long.
+L'accento si trova sempre sulla penultima vocale. Se una parola ha solo una vocale, non serve accentuarla.
 
-### The simplest sentence
+La **r** ha un range di pronuncie accettabili, l'importante per chi ha la _r moscia_ è di cercare di distinguere il più possibile la **r** dalla **l** e dalla **v** dolce.
 
-Now let's turn to constructing our first sentences in Lojban.
+### La "frase" più semplice
 
-The basic unit in Lojban is called **bridi** meaning "sentence", "relation". Here are two simple ones:
+Ora proviamo a creare la nostre prime "frasi" in Lojban. (il perché delle virgolette lo affronteremo in seguito).
+
+L'unità base in Lojban si chiama **bridi**, che significa "frase", "correlazione". Ecco due esempi:
 
 > **le prenu cu tavla mi**
 
-> _The person speaks to me._
+> _La/le persona/e parla(no) con me._
 
 le prenu
-: the person
+: la/le persona/e
 
 tavla
-: … talks to …, … speaks to …
+: … dice a … , … parla con …
 
 mi
-: I, me
+: io/me
 
 > **mi prami do**
 
-> _I love you._
+> _Io amo te._
 
 prami
-: … loves … (someone)
+: … ama … (qualcuno)
 
 do
-: you
+: tu
 
 > **mi ca cu tavla do**
 
-> _I now talk to you._
+> _Io adesso parlo con te._
 
 ca
-: now
+: ora/adesso
 
 <figure>
 	<img src="https://mw.lojban.org/images/thumb/7/77/xractu-mi-cropped.png/96px-xractu-mi-cropped.png" alt="mi">
 	<figcaption>
 	<b>mi</b><br/>
-	<i>I</i>
+	<i>Io</i>
 	</figcaption>
 </figure>
 
@@ -152,7 +150,7 @@ ca
 	<img src="https://mw-live.lojban.org/images/thumb/0/09/Bono_U2_with_Horst_K%C3%B6hler_at_Prague_2000_IMF.jpeg/320px-Bono_U2_with_Horst_K%C3%B6hler_at_Prague_2000_IMF.jpeg" alt="tavla">
 	<figcaption>
 	<b>tavla</b><br/>
-	<i>to talk</i>
+	<i>parlare</i>
 	</figcaption>
 </figure>
 
@@ -160,240 +158,251 @@ ca
 	<img src="https://mw.lojban.org/images/thumb/f/f2/xractu-do-cropped.png/96px-xractu-do-cropped.png" alt="do">
 	<figcaption>
 	<b>do</b><br/>
-	<i>you</i>
+	<i>tu</i>
 	</figcaption>
 </figure>
 
-Each sentence in Lojban consists of the following parts from the left to the right:
+Ogni "frase" in Lojban consiste delle seguenti parti, da sinistra verso destra:
 
-- the head:
-	- consists of so called "terms",
-	- **le prenu**, **mi**, **ca** are terms in the examples above.
-- the head separator **cu**:
-	- pronounced as _shoe_ since **c** is for _sh_,
-	- shows that the head ended,
-	- it can be omitted when it's obvious anyway that the head is completed
-- the tail:
-	- the main relation (**tavla**, **prami**) with possibly one or more terms after it: the terms **mi**, **do** in the examples above.
+- la testa:
+	- consiste di "termini",
+	- **le prenu**, **mi**, **ca** sono i termini usati negli esempi sopra.
+- il separatore della testa **cu**:
+	- pronunciato come _shu_ dato che la **c** è _sh_,
+	- indica che la testa è terminata,
+	- può essere omessa quando è evidente che la testa è già conclusa
+- la coda:
+	- la correlazione principale (**tavla**, **prami**) con possibilmente zero o più termini di seguito: i termini **mi**, **do** negli esempi sopra.
 
-One of your first thoughts might be "Where are nouns and verbs in Lojban?"
+Ora potresti domandarti: "Dove sono i nomi ed i verbi in Lojban?"
 
-Well, in Lojban we mostly speak of relations rather than nouns and verbs.
+Ebbene non ci sono! In Lojban si può conversare di qualsiasi cosa senza aver bisogno di tal costrutti, perché la lingua si basa sulle correlazioni fra cose, dalle più concrete alle più astratte.
 
-Here are the two relation words, which roughly correspond to verbs:
+Ecco altre due parole correlatrici, che corrispondono a grandi righe con i verbi:
 
 prenu
-: … is a person / are people
+: … è una persona / … sono persone
 
 tavla
-: … speaks to …
+: … parla con …
 
-To turn such "verb" into a noun we put a short word **le** in front of it:
+Per trasformare questi "verbi" in soggetti, ci mettiamo davanti una breve parola, **le**:
 
 le prenu
-: the person
+: la/le persona/e
 
-Similarly, 
+Similmente, 
 
 tavla
-: … speaks to …
+: … parla con …
 
-and thus
+si trasforma in:
 
 le tavla
-: the speaker
+: l'/gli oratore/i, interlocutore/i
 
-It might sound strange how person can be a "verb" but in fact this makes Lojban very simple:
+Può sembrare strano come "persona" può essere un verbo, ma ciò rende Lojban molto semplice:
 
 <table>
-<thead>
-<tr>
-<th>relation word</th>
-<th>noun</th></tr>
-</thead>
-<tbody>
-<tr>
-<td><b>prenu</b> — <i>to be a person</i> </td>
-<td><b>le prenu</b> — <i>the person</i>
-</td></tr>
-<tr>
-<td><b>tavla</b> — <i>to speak to</i> </td>
-<td><b>le tavla</b> — <i>the speaker</i>
-</td></tr>
-</tbody></table>
+    <thead>
+        <tr>
+            <th>correlatore</th>
+            <th>sostantivo</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><b>prenu</b> — <i>essere (una) persona/e</i></td>
+            <td><b>le prenu</b> — <i>la/le persona/e</i></td>
+        </tr>
+        <tr>
+            <td><b>tavla</b> — <i>parlare/dire</i> </td>
+            <td><b>le tavla</b> — <i>l'/gli oratore/i, interlocutore/i</i></td>
+        </tr>
+    </tbody>
+</table>
 
-We can also say that **le** creates a noun from a relation word with roughly the meaning of _the one which is …_ (_is a person_ — _the person_), or even _those who do…_ (_to speak to_ — _the speakers_), _those who are…_ (_are people_ — _the people_).
+Possiamo anche dire che **le** crea un sostantivo a partire da un correlatore con il significato di _colui/colei/coloro che sono …_ [_è/sono (una) persona/e_ — _la/le persona/e_], oppure _colui/colei/coloro che fanno il/lo/la/i…_ (_parlare_ — _oratore/i, interlocutore/i_).
 
-Notice, that Lojban by default doesn't differentiate between _the speaker_ or _the speakers_. That is, **le tavla** is vague in that regard and we will soon discover ways to define the number.
+Nota come Lojban di default non distingue _l'oratore/interlocutore_ da _gli/i oratori/interlocutori_. Ciò vuol dire che **le tavla** è vago riguardo il numero, e tal dato potremo scoprirlo in seguito, o conoscerlo già dal contesto.
 
-Terms in Lojban (no matter where in a given sentence they are used) are mostly represented with:
+I termini in Lojban (indipendentemente da dove essi si trovano in una "frase") di solito sono:
 
-- nouns like **le prenu** (_the person_)
-- pronouns like **mi** (_I_, _me_), **do** (_you_). Pronouns work exactly as nouns, but **le** is not used for them, they work as nouns on their own.
-- modal terms like **ca** (_now, in present_). Modal terms specify additional, сlarifying information.
+- sostantivi come **le prenu** (_la/le persona/e_)
+- pronomi come **mi** (_io_, _me_), **do** (_tu_). I pronomi funzionano come i sostantivi, soltanto non necessitano di **le**.
+- termini modali come **ca** (_ora, adesso_). I termini modali specificano informazioni addizionali, o di chiarimento.
 
-Some more examples:
+Altri esempi:
 
 > **mi nintadni**
 
-> _I am a new student._
+> _Io sono un nuovo studente._
 
 nintadni
-: … is a new student, a newbie
+: … è un nuovo studente, un novizio
 
-Unlike in English we don't have to add the verb "am/is/are/to be" to the sentence. It is already there. The relation word **nintadni** (_… is a new student_) already has this English "am/is/are/to be" built into its English translation.
+A differenza di moltre altre lingue, non dobbiamo aggiungere verbi come essere/avere alla "frase". E' tutto già preconfezionato, il correlatore **nintadni** (_… è un novizio_) ha già il verbo essere integrato.
 
 > **do jimpe**
 
-> _You understand._
+> _Tu capisci._
 
 <!-- -->
 
 > **mi pilno le fonxa**
 
-> _I use the phone._
+> _Io uso il telefono._
 
 pilno
-: … uses … (something)
+: … usa … (qualcosa)
 
 fonxa
-: … is a phone, … are phones
+: … è/sono (un) telefono/i
 
 le fonxa
-: the phone, the phones
+: il/i telefono/telefoni
 
 > **mi citka**
 
-> _I eat._
+> _Io mangio._
 
 citka
-: … eats … (something)
+: … mangia … (qualcosa)
 
 <!-- -->
 
 > **do citka**
 
-> _You eat._
+> _Tu mangi._
 
 <!-- -->
 
 > **mi citka le plise**
 
-> _I eat the apples._
+> _Io mangio una/le mela/e._
+
+<!-- -->
+
+pinxe
+: … beve … (qualcosa)
+
+le ladru
+: il latte
+
+mlatu
+: è/sono (un) gatto/i
+
+> **le mlatu cu pinxe le ladru**
+
+> _Un/i gatto/i beve/bevono latte._
 
 <!-- -->
 
 > **le plise cu kukte**
 
-> _The apples are tasty._
+> _La/le mela/e sono gustose._
 
-Here, **le plise** means _the apples_, **kukte** means _is tasty / are tasty_.
+Qui, **le plise** significa _la/le mela/e_, **kukte** significa _è/sono gustoso/a/i/e_.
 
-A simpler sentence in Lojban would contain only one main verb:
+Una frase ancor più semplice in Lojban potrebbe contenere un solo correlatore:
 
 > **karce**
 
-> _Car!_
+> _Auto!_
 
-You could say this when you see a car coming. Here the context would be clear enough that there is a car somewhere around and probably it's dangerous.
+Potresti dirla quando vedi un'automobile arrivare. Nel contesto corrente è sufficentemente chiaro che si sta cercando di attirare l'attenzione all'automobile nei dintorni, forse per evidenziare un pericolo.
 
-**karce** itself is a verb meaning _is a car, to be a car_.
+**karce** è un correlatore che significa _essere/è/sono (una) auto_.
 
-We can of course be more precise and say, for example:
+Possiamo essere ovviamente più precisi, e quindi dire:
 
 > **ti karce**
 
-> _This is a car._
+> _Questa/e è/sono (una) auto._
 
 <figure>
 	<img src="https://mw.lojban.org/images/thumb/5/5a/xractu-ti-cropped.png/96px-xractu-ti-cropped.png" alt="ti">
 	<figcaption>
 	<b>ti</b><br/>
-	<i>this one (near me, the speaker)</i>
+	<i>questo/a/i (vicino a me, l'oratore)</i>
 	</figcaption>
 </figure>
 
-where **ti** is a pronoun meaning _this thing near me_.
+dove **ti** è un pronome che significa _questo/a/i vicino a me_.
 
-Similarly, you can say
+Similarmente, potresti dire
 
 > **carvi**
 
-> _It is raining._
+> _Sta piovendo._
 
-where
+dove
 
 carvi
-: … is rain, … is raining
+: … è pioggia, … sta piovendo
 
-or
+o
 
 > **pluka**
 
-> _It's pleasant_
+> _E'/sono piacevole/i_
 
-where
+dove
 
 pluka
-: … is pleasant
+: … è/sono piacevole/i
 
-Notice that in Lojban there is no need in the word _it_ in such sense. You just use the relation word you need.
+Nota come in Lojban non c'è bisogno della parola _esso/a/i/e_ . E' sufficiente usare il correlatore che serve.
 
 > **prami**
 
-> _Someone loves._
+> _Qualcuno ama._
 
 <!-- -->
 
 > **bajra**
 
-> _Someone runs._
+> _Qualcuno corre._
 
 bajra
-: … runs using limbs
+: … corre usando arti
 
-Again context would probably tell who loves whom and who runs.
+Anche in questo caso dal contesto si potrebbe capire chi ama è chi corre.
 
-#### Task
+#### Compito
 
-Close the right part of the table. Translate from Lojban the sentences on the left.
+Copri la parte destra della tabella. Traduci dal Lojban le "frasi" sulla sinistra.
 
 <table style="table-layout: fixed;">
-<tbody><tr>
-<td><b>do citka</b>
-</td>
-<td><i>You eat.</i>
-</td></tr>
-<tr>
-<td><b>mi pinxe le ladru</b>
-</td>
-<td><i>I drink milk.</i>
-</td></tr>
-<tr>
-<td><b>mi citka le plise</b>
-</td>
-<td><i>I eat apples.</i>
-</td></tr></tbody></table>
+    <tbody>
+        <tr>
+            <td><b>do citka</b></td>
+            <td><i>Tu mangi.</i></td>
+        </tr>
+        <tr>
+            <td><b>mi pinxe le ladru</b></td>
+            <td><i>Io bevo latte.</i></td>
+        </tr>
+        <tr>
+            <td><b>mi citka le plise</b></td>
+            <td><i>Io mangio (una) mela/e.</i></td>
+        </tr>
+    </tbody>
+</table>
 
-pinxe
-: … drinks … (something)
+### «**.i**» separa "frasi"
 
-le ladru
-: the milk
-
-### «**.i**» separates sentences
-
-The most precise way of uttering or writing sentences in Lojban would be placing a short word **.i** in the beginning of each of them:
+Il modo più preciso di proferire o scrivere "frasi" in Lojban è quello di posizionare una breve parola **.i** al inizio di ognuna di esse:
 
 > **mi tavla le prenu .i le prenu cu tavla mi**
 
-> _I'm talking to the people. The people are talking to me._
+> _Io parlo con le persone. Le persone parlano con me._
 
-**.i** separates sentences like the full stop (period) at the end of sentences in English texts.
+**.i** separa "frasi" nello stesso modo in cui il punto separa frasi in italiano.
 
-When saying one sentence after another in English we make a pause (it may be short) between them. But pause has many different meanings in English. In Lojban we have a better way of understanding where one sentence ends and another begins.
+Quando in italiano diciamo una frase dopo l'altra, facciamo una pausa (magari breve) fra una e l'altra. Ma in italiano ci sono molti modi di indicare e/o causare una pausa, mentre in Lojban **.i** rende chiaro ed evidente quando una "frase" finisce.
 
-Also note that sometimes when pronouncing words quickly you can't figure out where one sentence ends and the word of the next sentence begins. Therefore it's advised to use the word **.i** before starting a new sentence.
+Nota anche che, quando si pronunciano velocemente le parole in Lojban, ci si può farsi prendere la mano, e non accorgerci quando la "frase" finisce. Quindi è sempre buona pratica iniziare una "frase" con **.i**.
 
 ### Numbers: ‘_1 2 3 4 5 6 7 8 9 0_’ = «**pa re ci vo mu xa ze bi so no**»
 
