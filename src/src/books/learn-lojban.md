@@ -404,285 +404,236 @@ Quando in italiano diciamo una frase dopo l'altra, facciamo una pausa (magari br
 
 Nota anche che, quando si pronunciano velocemente le parole in Lojban, ci si può farsi prendere la mano, e non accorgerci quando la "frase" finisce. Quindi è sempre buona pratica iniziare una "frase" con **.i**.
 
-### Numbers: ‘_1 2 3 4 5 6 7 8 9 0_’ = «**pa re ci vo mu xa ze bi so no**»
+### Numeri: ‘_1 2 3 4 5 6 7 8 9 0_’ = «**pa re ci vo mu xa ze bi so no**»
 
-**le** simply turns a verb into a noun but such noun has no number associated with it. The sentence
+**le** semplicemente trasforma un correlatore in un sostantivo, ma nessun sostantivo ha un numero associato. La "frase"
 
 > **le prenu cu tavla mi**
 
-> _The people talk to me._
+> _La gente parla con me._
 
-> _The person talks to me._
+> _La persona parla con me._
 
-doesn't specify the number of people talking to me. It is impossible to omit number in English because _people_ in English implies _more than one person_. In Lojban you can omit even number.
+non specifica il numero di persone che stanno parlando con me. E' impossibile omettere il numero in italiano perché _gente_ implica _più di una persona_. In Lojban puoi omettere anche il numero.
 
-Now let's specify how many of the people are relevant to our discussion.
+Ora vediamo di specificare quante persone sono rilevanti al discorso.
 
-Let's add a number after **le**.
+Aggiungiamo un numero dopo **le** .
 
 <table>
-<tbody><tr>
-<td><b>pa</b>
-</td>
-<td><b>re</b>
-</td>
-<td><b>ci</b>
-</td>
-<td><b>vo</b>
-</td>
-<td><b>mu</b>
-</td>
-<td><b>xa</b>
-</td>
-<td><b>ze</b>
-</td>
-<td><b>bi</b>
-</td>
-<td><b>so</b>
-</td>
-<td><b>no</b>
-</td></tr>
-<tr>
-<td> 1
-</td>
-<td> 2
-</td>
-<td> 3
-</td>
-<td> 4
-</td>
-<td> 5
-</td>
-<td> 6
-</td>
-<td> 7
-</td>
-<td> 8
-</td>
-<td> 9
-</td>
-<td> 0
-</td>
-</tr></tbody></table>
+    <tbody>
+        <tr>
+            <td><b>pa</b></td>
+            <td><b>re</b></td>
+            <td><b>ci</b></td>
+            <td><b>vo</b></td>
+            <td><b>mu</b></td>
+            <td><b>xa</b></td>
+            <td><b>ze</b></td>
+            <td><b>bi</b></td>
+            <td><b>so</b></td>
+            <td><b>no</b></td>
+        </tr>
+        <tr>
+            <td>1</td>
+            <td>2</td>
+            <td>3</td>
+            <td>4</td>
+            <td>5</td>
+            <td>6</td>
+            <td>7</td>
+            <td>8</td>
+            <td>9</td>
+            <td>0</td>
+        </tr>
+    </tbody>
+</table>
 
 > **le pa prenu cu tavla mi**
 
-> _The person talks to me._
+> _La persona parla con me._
 
-> _The one person talks to me._
+Abbiamo aggiunto un numero dopo **le** e quindi specificato il numero di persone.
 
-We add a number after **le** and thus specify individual cats.
-
-For numbers consisting of several digits we just string those digits together.
+Per i numeri composti da più di una cifra, possiamo semplicemente unire le cifre.
 
 > **le re mu prenu cu tavla mi**
 
-> _The 25 people talk to me._
+> _Le 25 persone parlano con me._
 
-Yes, it's that simple.
+Si, è così facile.
 
-If we want to count we can separate numbers with **.i**:
+Se vogliamo contare, possiamo separare i numeri con **.i**:
 
 > **mu .i vo .i ci .i re .i pa .i no**
 
 > _5 … 4 … 3 … 2 … 1 … 0_
 
-The number **za'u** means _more than …_ (_\>_ in math), the number **me'i** means _less than_ (_<_ in math):
+Il numero **za'u** significa _più di …_ (_\>_ in matematica), il numero **me'i** significa _meno di_ (_<_ in matematica):
 
 > **le za'u re prenu cu tavla mi**
 
-> _More then two people talk to me._
+> _Più di due persone parlano con me._
 
 <!-- -->
 
 > **le me'i pa no prenu cu tavla mi**
 
-> _Fewer than 10 people talk to me._
+> _Meno di 10 persone parlano con me._
 
 <!-- -->
 
 > **le za'u ci prenu cu tavla mi**
 
-> _More than three people talk to me._
+> _Più di tre persone parlano con me._
 
-To say just _people_ (plural number) as opposed to _one person_ we use **za'u pa**, _more than one_ or simply **za'u**.
+Per indicare _gente_ invece di _una persona_ possiamo usare **za'u pa**, _più di uno/a_ oppure **za'u**.
 
 > **le za'u pa prenu cu tavla mi**
 
 > **le za'u prenu cu tavla mi**
 
-> _The people talk to me._
+> _La gente parla con me._
 
-**za'u** by default means **za'u pa** hence such contraction is possible.
+**za'u** di default significa **za'u pa** quindi le seguenti contradizioni sono possibili.
 
 le prenu
-: the person / the people (in general)
+: la persona / la gente (in generale)
 
 le pa prenu
-: the person (one in number)
+: la persona (una di numero)
 
 le za'u prenu
-: the people (two or more in number)
+: le persone (due o più)
 
-#### Task
+#### Compito
 
-Close the right part of the table. Translate from Lojban the sentences on the left.
+Copri la parte destra della tabella. Traduci dal Lojban le "frasi" sulla sinistra.
+
+Correlatori usati nel esercizio:
+
+stati
+: … è intelligente, … ha talento
+
+klama
+: … va a … (qualche posto o oggetto)
+
+nelci
+: (a) … piace (qualcosa)
+
+le zarci
+: il mercato
+
+le najnimre
+: la/le arancia/e
+
+le badna
+: la/le banana/e
 
 <table style="table-layout: fixed;">
 	<tbody>
 		<tr>
 			<td>le mu prenu cu klama le zarci</td>
-			<td>The five people come to the market.</td>
+			<td>Le cinque persone vanno al mercato.</td>
 		</tr>
 		<tr>
 			<td>le pa re prenu cu stati .i do stati</td>
-			<td>The 12 people are smart. You are smart.</td>
+			<td>Le 12 persone sono intelligenti. Tu sei intelligente.</td>
 		</tr>
 		<tr>
 			<td>le prenu cu nelci le plise</td>
-			<td>The people like the apples.</td>
+			<td>Alla gente piacciono le mele.</td>
 		</tr>
 		<tr>
 			<td>le za'u re prenu cu citka .i le me'i mu prenu cu pinxe le ladru</td>
-			<td>More than two people eat. Fewer than 5 people drink the milk.</td>
+			<td>Più di due persone mangiano. Meno di 5 persone bevono il latte.</td>
 		</tr>
 		<tr>
 			<td>le za'u re prenu cu stati</td>
-			<td>More than two people are smart.</td>
+			<td>Più di due persone sono intelligenti.</td>
 		</tr>
 	</tbody>
 </table>
 
-le prenu
-: the person, people
 
-stati
-: … is smart, … has a talent
-
-klama
-: … comes to … (some place or object)
-
-nelci
-: … likes (something)
-
-le zarci
-: the market
-
-le najnimre
-: the orange (fruit), the oranges
-
-le badna
-: the banana, bananas
-
-Close the right part of the table. Translate to Lojban the sentences on the left.
+Copri la parte destra della tabella. Traduci in Lojban le "frasi" sulla sinistra.
 
 <table style="table-layout: fixed;">
 	<tbody>
 		<tr>
-			<td>The 256 people are smart.</td>
+			<td>Le 256 persone sono intelligenti.</td>
 			<td>le re mu xa prenu cu stati</td>
 		</tr>
 		<tr>
-			<td>Fewer than 12 apples are tasty.</td>
+			<td>Meno di 12 mele sono gustose.</td>
 			<td>le me'i pa re plise cu kukte</td>
 		</tr>
 	</tbody>
 </table>
 
-### Compound verbs
+### Correlatori Composti
 
-Compound verbs (**le tanru** in Lojban) are several verb words one after another.
+I correlatori composti (**le tanru** in Lojban) sono due o più correlatori posti uno dopo l'altro.
 
 > **tu melbi zdani**
 
-> _That one is a nice home._
+> _Quella è una bella casa._
 
 tu
-: that one (away from you and me)
+: quello/i lì (lontano da me e te)
 
 melbi
-: … is beautiful, nice
+: … è bello/a, carino/a
 
 zdani
-: … is a home or nest to … (someone)
+: … è una casa per … (qualcuno)
 
 > **do melbi dansu**
 
-> _You nicely dance._
+> _Tu balli amabilmente._
 
 dansu
-: … dances
+: … balla
 
-Here the verb **melbi** adds an additional meaning as it is to the left of another verb: **zdani**. The left part is usually translated using adjectives and adverbs.
+Qui il correlatore **melbi** aggiunge un significato aggiuntivo dato che si trova alla sinistra di un altro correlatore: **zdani**. La parte a sinistra si traduce di solito con aggettivi e avverbi.
 
-Compound verbs are a powerful tool that can give us richer verbs. You just string two verbs together. And the left part of such compound verb adds a flavor to the right one.
+I correlatori composti sono uno strumento potente che ci permette di ottenere correlatori complessi. Basta aggiungere un correlatore alla sinistra di un altro, e questo agirà come modificatore della parte alla destra.
 
-We can put **le** (e.g. with a number) to the left of such compound verb getting a compound noun:
+Possiamo mettere **le** (anche con un numero) prima di tal correlatore composto per ottenere un sostantivo composto:
 
 le pa melbi zdani
-: the beautiful home
+: La bella casa
 
-Now you know why there was **cu** after nouns in our example
+Ora sai perché c'era **cu** dopo i sostantivi negli esempi:
 
 > **le pa prenu cu tavla mi**
 
-> _The person talks to me._
+> _La persona parla con me._
 
-Without **cu** it'd turn into **le pa prenu tavla** … with the meaning _the person-talker_ whatever that could mean.
+Senza **cu** diventerebbe **le pa prenu tavla** … che significa _la persona-oratore_, qualunque cosa possa voler dire.
 
-Remember about placing **cu** before the main verb in a relation to prevent unintentional creating of compound verbs.
+Ricordati di mettere **cu** prima del correlatore principale in una "frase" per prevenire creazioni non intenzionali di correlatori composti.
 
-Compound verbs can contain more than two verbs. In this case the first verb modifies the second one, the second one modifies the third and so on:
+I correlatori composti possono contenere più di due correlatori. In questo caso, il primo correlatore modifica il secondo, il secondo modifica il terzo e così via:
 
 > **le pa melbi cmalu karce**
 
-> _the pretty-small car, the car small in a pretty way_
+> _La bella e piccola auto, L'auto piccola in modo carino_
 
 <!-- -->
 
 > **le mutce melbi zdani**
 
-> _the very beautiful home_
+> _La molto bella casa_
 
 mutce
-: … is very, … is much
+: … è molto …
 
-#### Task
+#### Compito
 
-Close the right part of the table. Translate from Lojban the sentences on the left.
+Copri la parte destra della tabella. Traduci dal Lojban le "frasi" sulla sinistra.
 
-<table style="table-layout: fixed;">
-
-<tbody><tr>
-<td><b>le melbi karce</b>
-</td>
-<td><i>the beautiful car / the beautiful cars</i>
-</td></tr>
-<tr>
-<td><b>do sutra klama</b>
-</td>
-<td><i>You quickly come. You come fast.</i>
-</td></tr>
-<tr>
-<td><b>tu barda zdani</b>
-</td>
-<td><i>That is a big home.</i>
-</td></tr>
-<tr>
-<td><b>le pa sutra bajra mlatu</b>
-</td>
-<td><i>the quickly running cat</i>
-</td></tr>
-<tr>
-<td><b>le pa sutra mlatu</b>
-</td>
-<td><i>the quick cat</i>
-</td></tr>
-<tr>
-<td><b>le pa bajra mlatu</b>
-</td>
-<td><i>the running cat</i>
-</td></tr></tbody></table>
+Correlazioni usate nel esercizio:
 
 sutra
 : … is quick
@@ -696,96 +647,120 @@ cmalu
 bajra
 : … runs
 
-mlatu
-: … is a cat
+<table style="table-layout: fixed;">
+    <tbody>
+        <tr>
+            <td><b>le melbi karce</b></td>
+            <td><i>La bella auto / Le belle auto</i></td>
+        </tr>
+        <tr>
+            <td><b>do sutra klama</b></td>
+            <td><i>Tu vai velocemente. Tu vieni velocemente.</i></td>
+        </tr>
+        <tr>
+            <td><b>tu barda zdani</b></td>
+            <td><i>Quella lì è una grande casa.</i></td>
+        </tr>
+        <tr>
+            <td><b>le pa sutra bajra mlatu</b></td>
+            <td><i>Il gatto che corre veloce</i></td>
+        </tr>
+        <tr>
+            <td><b>le pa sutra mlatu</b></td>
+            <td><i>Il gatto veloce</i></td>
+        </tr>
+        <tr>
+            <td><b>le pa bajra mlatu</b></td>
+            <td><i>Il gatto che corre</i></td>
+        </tr>
+    </tbody>
+</table>
 
-Close the right part of the table. Translate to Lojban the sentences on the left.
+Copri la parte destra della tabella. Traducti in Lojban le "frasi" sulla sinistra.
 
 <table style="table-layout: fixed;">
+    <tbody>
+        <tr>
+            <td><i>Questa è una piccola auto.</i></td>
+            <td><b>ti cmalu karce</b></td>
+        </tr>
+        <tr>
+            <td><i>Mele gustose</i></td>
+            <td><b>le kukte plise</b></td>
+        </tr>
+        <tr>
+            <td><i>I mangiatori veloci</i></td>
+            <td><b>le sutra citka</b></td>
+        </tr>
+        <tr>
+            <td><i>Tu sei una persona che va veloce.</i></td>
+            <td><b>do sutra klama prenu</b></td>
+        </tr>
+    </tbody>
+</table>
 
-<tbody><tr>
-<td><i>This is a small car.</i>
-</td>
-<td><b>ti cmalu karce</b>
-</td></tr>
-<tr>
-<td><i>tasty apples</i>
-</td>
-<td><b>le kukte plise</b>
-</td></tr>
-<tr>
-<td><i>the quick eaters</i>
-</td>
-<td><b>le sutra citka</b>
-</td></tr>
-<tr>
-<td><i>You are a quickly going person.</i>
-</td>
-<td><b>do sutra klama prenu</b>
-</td></tr></tbody></table>
+### Domande chiuse del tipo ‘_Si/No_’
 
-### ‘_Yes/No_’ questions
+In italiano, per creare domande chiuse basta formarle in modo tale da richiedere una risposta del tipo _Si/No_, per esempio
 
-In English, we make a _yes/no_ question by changing the order of the words, for example
+> _Tu sei …_ ⇒ _Sei tu …?_
 
-> _You are …_ ⇒ _Are you …?_
+oppure:
 
-or putting some form of the verb _to do_ at the beginning, for example,
+> _Tu conosci …_ ⇒ _Tu conosci?_
 
-> _You know …_ ⇒ _Do you know?_
+In Lojban possiamo mantenere un simile approccio.
 
-In Lojban we can retain the order of words.
-
-We turn any assertion into a _yes/no_ question by simply putting the word **xu** somewhere in the sentence, for example in the beginning:
+Possiamo trasformare una qualsiasi "frase" in una domanda chiusa semplicemente mettendo **xu** da qualche parte, per esempio al inizio:
 
 > **xu do nelci le gerku**
 
-> _Do you like the dogs?_
+> _Ti piacciono i cani?_
 
 le gerku
-: the dog, the dogs
+: un/i cane/i
 
-Remember that in Lojban punctuation like "?" (question mark) is totally optional and used mostly for stylistic purposes. After all, we use the question word **xu** that shows the question anyway.
+Ricorda che in Lojban la punteggiatura come "?" (punto di domanda) è completamente opzionale ed usata prevalentemente per motivi stilistici. Dopotutto usiamo la parola **xu** per indicare la domanda.
 
-Other examples:
+Altri esempi:
 
 > **xu mi klama**
 
-> _Am I coming?_
+> _Sto andando/venendo?_
 
 klama
-: … comes to … (somewhere)
+: … andare a …, … venire da … (da qualche parte)
 
 > **xu pelxu**
 
-> _Is it yellow?_
+> _E' giallo?_
 
 pelxu
-: … is yellow
+: … è giallo
 
-We can shift the meaning by placing **xu** after different parts of the relation. Some possible explanations of such shift in meaning are given in brackets:
+Possiamo cambiare il significato spostando **xu** dopo altre parti della correlazione. Alcune delle possibili spiegazioni sono disponibili nelle parentesi:
 
 > **xu do nelci le gerku**
 
-> _Do you like the dogs?_
+> _Ti piacciono i cani?_
 
 <!-- -->
 
 > **do xu nelci le gerku**
 
-> _Do YOU like the dogs?_ (I thought it was someone else who likes them).
+> _TI piacciono i cani?_ (Pensavo piacessero a qualcun'altro).
 
 <!-- -->
 
 > **do nelci xu le gerku**
 
-> _Do you LIKE the dogs? (I thought you were just neutral towards them)._
+> _Ti PIACCIONO i cani? (Pensavo avessi una posizione neutrale riguardo i cani)._
 
 <!-- -->
 
 > **do nelci le gerku xu**
 
-> _Do you like the DOGS? (I thought you liked cats)._
+> _Ti piacciono i CANI? (Pensavo ti piacessero i gatti)._
 
 So what is expressed using intonation in English is expressed by moving **xu** after the part we want to emphasize. Note, that the first sentence with **xu** in the beginning asks the most generic question without stressing any particular aspect.
 
