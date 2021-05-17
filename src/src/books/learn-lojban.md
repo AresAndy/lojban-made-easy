@@ -104,7 +104,7 @@ La **r** ha un range di pronuncie accettabili, l'importante per chi ha la _r mos
 
 ### La "frase" più semplice
 
-Ora proviamo a creare la nostre prime "frasi" in Lojban. (il perché delle virgolette lo affronteremo in seguito).
+Ora proviamo a creare la nostre prime "frasi" in Lojban. (il perché delle virgolette lo affronteremo in seguito, basta sapere che in Lojban tecnicamente le frasi non esistono come in italiano, al loro posto abbiamo correlazioni).
 
 L'unità base in Lojban si chiama **bridi**, che significa "frase", "correlazione". Ecco due esempi:
 
@@ -162,7 +162,7 @@ ca
 	</figcaption>
 </figure>
 
-Ogni "frase" in Lojban consiste delle seguenti parti, da sinistra verso destra:
+Ogni correlazione in Lojban consiste delle seguenti parti, da sinistra verso destra:
 
 - la testa:
 	- consiste di "termini",
@@ -226,7 +226,7 @@ Possiamo anche dire che **le** crea un sostantivo a partire da un correlatore co
 
 Nota come Lojban di default non distingue _l'oratore/interlocutore_ da _gli/i oratori/interlocutori_. Ciò vuol dire che **le tavla** è vago riguardo il numero, e tal dato potremo scoprirlo in seguito, o conoscerlo già dal contesto.
 
-I termini in Lojban (indipendentemente da dove essi si trovano in una "frase") di solito sono:
+I termini in Lojban (indipendentemente da dove essi si trovano in una correlazione) di solito sono:
 
 - sostantivi come **le prenu** (_la/le persona/e_)
 - pronomi come **mi** (_io_, _me_), **do** (_tu_). I pronomi funzionano come i sostantivi, soltanto non necessitano di **le**.
@@ -371,7 +371,7 @@ Anche in questo caso dal contesto si potrebbe capire chi ama è chi corre.
 
 #### Compito
 
-Copri la parte destra della tabella. Traduci dal Lojban le "frasi" sulla sinistra.
+Copri la parte destra della tabella. Traduci dal Lojban le correlazioni sulla sinistra.
 
 <table style="table-layout: fixed;">
     <tbody>
@@ -390,23 +390,23 @@ Copri la parte destra della tabella. Traduci dal Lojban le "frasi" sulla sinistr
     </tbody>
 </table>
 
-### «**.i**» separa "frasi"
+### «**.i**» separa le correlazioni
 
-Il modo più preciso di proferire o scrivere "frasi" in Lojban è quello di posizionare una breve parola **.i** al inizio di ognuna di esse:
+Il modo più preciso di proferire o scrivere correlazioni in Lojban è quello di posizionare una breve parola **.i** al inizio di ognuna di esse:
 
 > **mi tavla le prenu .i le prenu cu tavla mi**
 
 > _Io parlo con le persone. Le persone parlano con me._
 
-**.i** separa "frasi" nello stesso modo in cui il punto separa frasi in italiano.
+**.i** separa correlazioni nello stesso modo in cui il punto separa frasi in italiano.
 
-Quando in italiano diciamo una frase dopo l'altra, facciamo una pausa (magari breve) fra una e l'altra. Ma in italiano ci sono molti modi di indicare e/o causare una pausa, mentre in Lojban **.i** rende chiaro ed evidente quando una "frase" finisce.
+Quando in italiano diciamo una frase dopo l'altra, facciamo una pausa (magari breve) fra una e l'altra. Ma in italiano ci sono molti modi di indicare e/o causare una pausa, mentre in Lojban **.i** rende chiaro ed evidente quando una correlazione finisce ed un'altra inizia.
 
-Nota anche che, quando si pronunciano velocemente le parole in Lojban, ci si può farsi prendere la mano, e non accorgerci quando la "frase" finisce. Quindi è sempre buona pratica iniziare una "frase" con **.i**.
+Nota anche che, quando si pronunciano velocemente le parole in Lojban, ci si può farsi prendere la mano, e non accorgerci quando la correlazione è conclusa. Quindi è sempre buona pratica iniziare una correlazione con **.i**.
 
 ### Numeri: ‘_1 2 3 4 5 6 7 8 9 0_’ = «**pa re ci vo mu xa ze bi so no**»
 
-**le** semplicemente trasforma un correlatore in un sostantivo, ma nessun sostantivo ha un numero associato. La "frase"
+**le** semplicemente trasforma un correlatore in un sostantivo, ma nessun sostantivo ha un numero associato. La correlazione
 
 > **le prenu cu tavla mi**
 
@@ -508,7 +508,7 @@ le za'u prenu
 
 #### Compito
 
-Copri la parte destra della tabella. Traduci dal Lojban le "frasi" sulla sinistra.
+Copri la parte destra della tabella. Traduci dal Lojban le correlazioni sulla sinistra.
 
 Correlatori usati nel esercizio:
 
@@ -556,7 +556,7 @@ le badna
 </table>
 
 
-Copri la parte destra della tabella. Traduci in Lojban le "frasi" sulla sinistra.
+Copri la parte destra della tabella. Traduci in Lojban le frasi sulla sinistra.
 
 <table style="table-layout: fixed;">
 	<tbody>
@@ -612,7 +612,7 @@ Ora sai perché c'era **cu** dopo i sostantivi negli esempi:
 
 Senza **cu** diventerebbe **le pa prenu tavla** … che significa _la persona-oratore_, qualunque cosa possa voler dire.
 
-Ricordati di mettere **cu** prima del correlatore principale in una "frase" per prevenire creazioni non intenzionali di correlatori composti.
+Ricordati di mettere **cu** prima del correlatore principale in una correlazione per prevenire creazioni non intenzionali di correlatori composti.
 
 I correlatori composti possono contenere più di due correlatori. In questo caso, il primo correlatore modifica il secondo, il secondo modifica il terzo e così via:
 
@@ -631,7 +631,7 @@ mutce
 
 #### Compito
 
-Copri la parte destra della tabella. Traduci dal Lojban le "frasi" sulla sinistra.
+Copri la parte destra della tabella. Traduci dal Lojban le correlazioni sulla sinistra.
 
 Correlazioni usate nel esercizio:
 
@@ -676,7 +676,7 @@ bajra
     </tbody>
 </table>
 
-Copri la parte destra della tabella. Traducti in Lojban le "frasi" sulla sinistra.
+Copri la parte destra della tabella. Traducti in Lojban le frasi sulla sinistra.
 
 <table style="table-layout: fixed;">
     <tbody>
@@ -711,7 +711,7 @@ oppure:
 
 In Lojban possiamo mantenere un simile approccio.
 
-Possiamo trasformare una qualsiasi "frase" in una domanda chiusa semplicemente mettendo **xu** da qualche parte, per esempio al inizio:
+Possiamo trasformare una qualsiasi correlazione in una domanda chiusa semplicemente mettendo **xu** da qualche parte, per esempio al inizio:
 
 > **xu do nelci le gerku**
 
@@ -762,357 +762,383 @@ Possiamo cambiare il significato spostando **xu** dopo altre parti della correla
 
 > _Ti piacciono i CANI? (Pensavo ti piacessero i gatti)._
 
-So what is expressed using intonation in English is expressed by moving **xu** after the part we want to emphasize. Note, that the first sentence with **xu** in the beginning asks the most generic question without stressing any particular aspect.
+Quindi ciò che si può esprimere con la forma in italiano, in Lojban si ottiene spostando **xu** dopo la parte che vogliamo enfatizzare. Nota come la prima correlazione con **xu** al inizio chiede la domanda più generica, senza focalizzarsi su alcun aspetto.
 
-**xu** is an interjection word. Here are the features of Lojban interjections:
+**xu** è una interiezione. Ecco le caratteristiche delle interiezioni in Lojban:
 
-- interjection modifies the construct before it. So when put after certain part of the relation like pronoun or a verb it modifies that verb: **do xu nelci le gerku** — _Do YOU like the dogs?_
-- being put in the beginning of a relation, interjection modifies the whole relation: **xu do nelci le gerku** — _Do you like the dogs?_
-- we can put an interjection after different parts of the same relation shifting the meaning.
+- le interiezioni modificano il costrutto prima di esse. Quindi quando si trovano dopo alcune parti della correlazione (come pronomi o correlatori) esse modificano quella parte: **do xu nelci le gerku** — _TI piaccion i cani?_
+- se poste al inizio della correlazione, esse la modificano per intero: **xu do nelci le gerku** — _Ti piacciono i cani?_
+- possiamo mettere una interiezione dopo diverse parti della correlazione, cambiandone il significato.
 
-Interjections don't break compound verbs, they can be used within them:
+Le interiezioni non rompono i correlatori composti, quindi possono essere usate con essi:
 
 > **do nelci le barda xu gerku**
 
-> _Do you like the BIG dogs?_
+> _Ti piacciono i cani GRANDI?_
 
 Now how to reply to such 'yes/no' questions?
 
-> — **xu do nelci le gerku**
+> **xu do nelci le gerku**
 
-> — _Do you like the dogs?_
+> _Do you like the dogs?_
 
 <!-- -->
 
 > — **je'u**
 
-> — _Yes._
+> — _Si._
 
-> `— True`
+> — `Vero`
 
-or
+o
 
-> **je'u nai**
+> — **je'u nai**
 
-> _No._
+> — _No._
 
-> `Not true`
+> — `Falso`
 
 je'u
-: interjection meaning "truly"
+: interiezione che significa "veramente"
 
 je'u nai
-: interjection meaning "falsely, not truly"
+: interiezione che significa "falsamente, non veramente"
 
-Another way to answer _yes_ is to repeat the main verb, for example
+Un altro modo per rispondere _si_ è quello di ripetere il correlatore principale, per esempio
 
 > — **xu le mlatu cu melbi**
 
 > — **melbi**
 
-> — _Are the cats pretty?_
+> — _Sono i gatti belli?_
 
-> — _Pretty._
+> — _Belli._
 
-Or we can use a special verb **go'i** that simply refers the main verb of the previous relation:
+Oppure possiamo usare un correlatore speciale **go'i** che semplicemente fa riferimento al correlatore principale della correlazione precedente:
 
 > — **xu le mlatu cu melbi**
 
 > — **go'i**
 
-> — _Are the cats pretty?_
+> — _Sono i gatti belli?_
 
-> — _Pretty._
+> — _Belli._
 
 go'i
-: verb repeating the relation of the previous relation
+: correlatore che ripete il correlatore presente nella correlazione precedente
 
-Here, **go'i** means the same as **melbi** since **melbi** is the relation of the previous relation.
+Nel esempio, **go'i** equivale a **melbi** dato che **melbi** è il correlatore principale della frase precedente.
 
-This course doesn't recommend negating **go'i** for negative answers. Just use **je'u nai**.
+Questo corso non consiglia di negare **go'i** per ottenere risposte negative. Usate invece **je'u nai**.
 
-Since **je'u** and **je'u nai** are also interjections. We can use them not only in questions:
+Siccome **je'u** e **je'u nai** sono a loro volta interiezioni, possiamo usarle non solo con le domande:
 
 > **je'u do lazni**
 
-> _Truly you are lazy._
+> _Veramente tu sei pigro._
 
 lazni
-: … is lazy
+: … è pigro
 
 > **je'u nai mi nelci le gerku**
 
-> _It is false that I like the dogs._
+> _E' falso che a me piacciono i cani._
 
-**nai** is a modifier of interjections, it creates the opposite meaning when put after them.
+**nai** è un modificatore di interiezioni, che crea il significato opposto di ciò che precede.
 
-#### Task
+### Compito
 
-Close the right part of the table. Translate from Lojban the sentences on the left.
+Copri la parte destra della tabella. Traduci dal Lojban le correlazioni sulla sinistra.
 
-<table style="table-layout: fixed;">
+Correlazioni usate nel esercizio:
 
-<tbody><tr>
-<td><b>xu le barda zdani cu melbi</b>
-</td>
-<td><i>Is the big home beautiful?</i>
-</td></tr>
-<tr>
-<td><b>— le prenu cu stati xu<br/>— je'u nai</b>
-</td>
-<td><i>— Are the people smart?<br/>— No.</i>
-</td></tr>
-<tr>
-<td><b>do klama le zarci xu</b>
-</td>
-<td><i>Do you go to the market?</i>
-</td></tr>
-<tr>
-<td><b>xu le verba cu prami le mlatu</b>
-</td>
-<td><i>Does the child love the cats?</i>
-</td></tr></tbody></table>
-
-Close the right part of the table. Translate to Lojban the sentences on the left.
+verba
+: … è un bambino/figlio/giovane
 
 <table style="table-layout: fixed;">
+    <tbody>
+        <tr>
+            <td><b>xu le barda zdani cu melbi</b></td> 
+            <td><i>E' la grande casa bella?</i></td>
+        </tr>
+        <tr>
+            <td>
+                <b>
+                    — le prenu cu stati xu<br/>
+                    — je'u nai
+                </b>
+            </td>
+            <td>
+                <i>
+                    — Are the people smart?<br/>
+                    — No.
+                </i>
+            </td>
+        </tr>
+        <tr>
+            <td><b>do klama le zarci xu</b></td>
+            <td><i>Stai andando al mercato?</i></td>
+        </tr>
+        <tr>
+            <td><b>xu le verba cu prami le mlatu</b></td>
+            <td><i>Piacciono al bambino i gatti?</i></td>
+        </tr>
+    </tbody>
+</table>
 
-<tbody><tr>
-<td><i>Is the car fast?</i>
-</td>
-<td><b>xu le karce cu sutra</b>
-</td></tr>
-<tr>
-<td><i>— Is the orange tasty?<br/>— Yes, it is.</i>
-</td>
-<td><b>— xu le najnimre cu kukte<br/>— je'u</b>
-</td></tr>
-<tr>
-<td><i>Does the dog love you?</i>
-</td>
-<td><b>xu le gerku cu prami do</b>
-</td></tr></tbody></table>
+Copri la parte destra della tabella. Traduci in Lojban le frasi sulla sinistra.
 
-### Polite requests
+<table style="table-layout: fixed;">
+    <tbody>
+        <tr>
+            <td><i>Is the car fast?</i></td>
+            <td><b>xu le karce cu sutra</b></td>
+        </tr>
+        <tr>
+            <td>
+                <i>
+                — Is the orange tasty?<br/>
+                — Yes, it is.
+                </i>
+            </td>
+            <td>
+                <b>
+                    — xu le najnimre cu kukte<br/>
+                    — je'u
+                </b>
+            </td>
+        </tr>
+        <tr>
+            <td><i>Does the dog love you?</i></td>
+            <td><b>xu le gerku cu prami do</b></td>
+        </tr>
+    </tbody>
+</table>
 
-The interjection **.e'o** in the beginning of a sentence turns it into a request:
+### Richieste cortesi
+
+L'interiezione **.e'o** posta al inizio di una correlazione la trasforma in una richiesta:
 
 > **.e'o do lebna le cukta**
 
-> _Could you take the book, please?_
+> _Potresti prendere il libro, per favore?_
 
-> `Please take the book.`
+> `Per favore prendi il libro.`
 
 .e'o
-: interjection: please (pronounced as _eh-haw_ with a short pause or break before the word)
+: interiezione: per favore (pronunciata _e-ho_ con una breve pausa prima della parola)
 
 lebna
-: to take (something)
+: prendere (qualcosa)
 
 le cukta
-: the book
+: il/i libro/i
 
-In English to be polite one has to use _could you_ + _please_ + a question). In Lojban **.e'o** is enough to make a polite request.
+In italiano per essere cortesi di solito si usano forme del tipo _Potresti/Potreste_ + _per favore/cortesemente_ + richiesta; in Lojban **.e'o** è sufficiente per creare una richiesta cortese.
 
-#### Task
+#### Compito
 
-Close the right part of the table. Translate from Lojban the sentences on the left.
+Copri la parte destra della tabella. Traduci dal Lojban le correlazioni sulla sinistra.
 
-<table style="table-layout: fixed;">
+Correlazioni usate nel esercizio:
 
-<tbody><tr>
-<td><b>.e'o do sutra bajra</b>
-</td>
-<td><i>Run quickly!</i>
-</td></tr>
-<tr>
-<td><b>.e'o do pinxe le tcati</b>
-</td>
-<td><i>Please, drink tea!</i>
-</td></tr>
-<tr>
-<td><b>.e'o catlu le skina</b>
-</td>
-<td><i>Please, watch the film!</i>
-</td></tr></tbody></table>
-
-le tcati
-: the tea
+tcati
+: … è/contiene/è fatto di the
 
 le ckafi
-: coffee
+: il caffé
 
 catlu
-: to watch
+: … guarda/fissa/ispeziona …
 
-le skina
-: the film, the movie
-
-Close the right part of the table. Translate to Lojban the sentences on the left.
+skina
+: … è un film/pellicola
 
 <table style="table-layout: fixed;">
+    <tbody>
+        <tr>
+            <td><b>.e'o do sutra bajra</b></td>
+            <td><i>(Ti prego) Corri velocemente!</i></td>
+        </tr>
+        <tr>
+            <td><b>.e'o do pinxe le tcati</b></td>
+            <td><i>Per favore, bevi il the.</i></td>
+        </tr>
+        <tr>
+            <td><b>.e'o catlu le skina</b></td>
+            <td><i>Per favore, guarda il film!</i></td>
+        </tr>
+    </tbody>
+</table>
 
-<tbody><tr>
-<td><i>Please, be smart!</i>
-</td>
-<td><b>.e'o stati</b>
-</td></tr>
-<tr>
-<td><i>Please, go home!</i>
-</td>
-<td><b>.e'o do klama le zdani</b>
-</td></tr>
-<tr>
-<td><i>Please, drink the coffee!</i>
-</td>
-<td><b>.e'o do pinxe le ckafi</b>
-</td></tr>
-<tr>
-<td><i>Please, take care of the child.</i>
-</td>
-<td><b>.e'o do kurji le verba</b>
-</td></tr></tbody></table>
+Copri la parte destra della tabella. Traduci in Lojban le frasi sulla sinistra.
 
-### ‘_And_’ and ‘_or_’
+correlazioni usate nel esercizio:
+
+kurji
+: … si prende cura di …
+
+<table style="table-layout: fixed;">
+    <tbody>
+        <tr>
+            <td><i>Per favore, sii intelligente!</i></td>
+            <td><b>.e'o stati</b></td>
+        </tr>
+        <tr>
+            <td><i>Per favore, va a casa!</i></td>
+            <td><b>.e'o do klama le zdani</b></td>
+        </tr>
+        <tr>
+            <td><i>Per favore, bevi il caffé.</i></td>
+            <td><b>.e'o do pinxe le ckafi</b></td>
+        </tr>
+        <tr>
+            <td><i>Per favore, prenditi cura del bambino.</i></td>
+            <td><b>.e'o do kurji le verba</b></td>
+        </tr>
+    </tbody>
+</table>
+
+### ‘_E_’ e ‘_o_’
 
 > **do nintadni .i je mi nintadni**
 
-> _You are a newbie. And I am a newbie._
+> _Tu sei un novizio. Ed io sono un novizio._
 
 <!-- -->
 
 > **do .e mi nintadni**
 
-> _You and I are newbies._
+> _Tu ed io siamo novizi._
 
 <!-- -->
 
 > **mi tadni .i je mi tavla do**
 
-> _I study. And I talk to you._
+> _Io studio. Ed io parlo con te._
 
 <!-- -->
 
 > **mi tadni gi'e tavla do**
 
-> _I study and talk to you._
+> _Io studio e parlo con te._
 
 .i je
-: conjunction "and" combining sentences into one.
+: congiunzione "e" che combina due correlazioni in una.
 
 .e
-: conjunction "and" connecting nouns.
+: congiunzione "e" che connette sostantivi.
 
 gi'e
-: conjunction "and" connecting sentence tails.
+: congiunzione "e" che connette code delle correlazioni.
 
-We can combine two sentences into one statement using the conjunction **.i je** means _and_:
+Possiamo combinare due correlazioni in una usando la congiunzione **.i je** che significa _e_:
 
 > **do nintadni .i je mi nintadni**
 
-> _You are a newbie. And I am a newbie._
+> _Tu sei un novizio. Ed io sono un novizio._
 
-Since both sentences have the same tail we can use a contraction: the conjunction **.e** means _and_ for nouns and pronouns:
+Siccome le correlazioni hanno la stessa coda possiamo usare una contrazione: la congiunzione **.e** che vuol dire _e_ per sostantivi e pronomi:
 
 > **do .e mi nintadni**
 
-> _You and I are newbies._
+> _Tu ed io siamo novizi._
 
-**do nintadni .i je mi nintadni** means exactly the same as **do .e mi nintadni**
+**do nintadni .i je mi nintadni** ha lo stesso esatto significato di **do .e mi nintadni**
 
-And we can use **.e** for connecting nouns and pronouns in other positions:
+E possiamo usare **.e** per connettere sostantivi e pronomi in altre posizioni:
 
 > **mi pinxe le ladru .e le jisra**
 
-> _I drink the milk and the juice._
+> _Io bevo il latte ed il succo._
 
-That would mean the same as:
+Ha lo stesso significato di:
 
 > **mi pinxe le ladru .i je mi pinxe le jisra**
 
-le jisra
-: juice
+jisra
+: … è/contiene/è fatto di succo
 
-If the sentence head is the same but the tails differ we use the conjunction **gi'e** meanings _and_ for sentence tails:
+Se la testa della correlazione è la stessa ma la coda varia, possiamo usare la congiunzione **gi'e** che vuol dire _and_ per le code:
 
 > **mi tadni .i je mi tavla do**
 
 > **mi tadni gi'e tavla do**
 
-> _I study and talk to you._
+> _Io studio e parlo con te._
 
-Both variations mean the same, simply **gi'e** leads to a more consise realization.
+Entrambe le correlazioni hanno lo stesso significato, semplicemente **gi'e** fornisce brevità.
 
-We also have tools to add _and_ for components of compound verbs:
+Abbiamo a disposizione anche strumenti per aggiungere _e_ ai componenti dei correlatori composti:
 
 > **le melbi je cmalu zdani cu zvati ti**
 
-> _The pretty and small home is here._
+> _La bella e piccola casa è qui._
 
 zvati
-: … is present at …
+: … si trova a …
 
 ti
-: this thing, this place near me
+: questo/a qui, questo posto vicino a me
 
-**je** is a conjunction in Lojban, it means _and_ in compound verbs.
+**je** è una congiunzione in Lojban, e significa _e_ nelle correlazioni composte.
 
-Without **je** the sentence changes the meaning:
+Senza **je** la correlazione ottiene un significato diverso:
 
 > **le melbi cmalu zdani cu zvati**
 
-> _The prettily small home is here._
+> _La graziosamente piccola casa è qui._
 
-Here **melbi** modifies **cmalu** and **melbi cmalu** modifies **zdani** according to how compound verbs work.
+Qui **melbi** modifica **cmalu** e **melbi cmalu** modifica **zdani**, seguendo le regole delle correlazioni composte.
 
-In **le melbi je cmalu zdani** (_the pretty and small house_) both **melbi** and **cmalu** modify **zdani** directly.
+In **le melbi je cmalu zdani** (_la bella e piccola casa_) sia **melbi** che **cmalu** modificano **zdani** direttamente.
 
-Other common conjunctions:
+Altre congiunzioni comuni:
 
 > **le verba cu fengu ja bilma**
 
-> _The child is angry or ill (or maybe both angry and ill)_
+> _Il bambino è arrabbiato o malato (oppure probabilemente arrabbiato e malato)_
 
 <!-- -->
 
 > **do .a mi ba vitke le dzena**
 
-> _You or I (or both of us) will visit the ancestor._
+> _Tu o io (oppure noi entrambi) visiteremo l'antenato._
 
 ja
-: and/or
+: e/o
 
-**.a** = _and/or_ when connecting nouns and pronouns.
+**.a** = _e/o_ quando si connettono sostantivi e pronomi.
 
 fengu
-: … is angry
+: … è arrabbiato
 
 bilma
-: … is ill
+: … è malato
 
 vitke
-: to visit
+: … visita …
 
 dzena
-: … is an ancestor
+: … è un antenato
 
 > **le karce cu blabi jo nai grusi**
 
-> _The car is either white or gray._
+> _L'auto è bianca o grigia._
 
 <!-- -->
 
 > **do .o nai mi vitke le laldo**
 
-> _Either you or I visit the old one._
+> _O tu o io visitiamo l'anziano._
 
 jo nai
-: either … or … but not both
+: … o … ma non entrambe
 
 .o nai
-: either … or … but not both (when connecting nouns and pronouns)
+: … o … ma non entrambe (quando si connettono sostantivi e pronomi)
 
-Note that it's better to remember **jo nai** as a single construct. The same for **.o nai**.
+Nota come è meglio ricordarsi **jo nai** come singolo costrutto. Lo stesso vale per **.o nai**.
 
 > **mi prami do .i ju do stati**
 
